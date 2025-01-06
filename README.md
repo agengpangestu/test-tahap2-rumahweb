@@ -76,4 +76,4 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
 link deployment = https://test-tahap2-rumahweb.vercel.app/
 
-url frontend = https://test-tahap2-rumahweb.vercel.app/login
+url frontend login = https://test-tahap2-rumahweb.vercel.app/login
