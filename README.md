@@ -74,3 +74,6 @@ bun run preview
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 
+link deployment = https://test-tahap2-rumahweb.vercel.app/
+
+url frontend = https://test-tahap2-rumahweb.vercel.app/login
